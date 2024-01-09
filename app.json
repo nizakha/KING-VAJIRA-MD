@@ -90,7 +90,7 @@
      "value": "KING-VAJIRA-MD"
   },
     "WORKTYPE": {
-  "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it./ඔබට විතරක් වැඩ කිරිමට false ලෙස හැමෝටම වැඩ කිරීමට true ලෙස දමන්න",
+  "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it./ඔබට විතරක් වැඩ කිරිමට private ලෙස හැමෝටම වැඩ කිරීමට public ලෙස දමන්න",
          "value": "public"
   },
       "AUTO_REACTION": {
