@@ -24,7 +24,7 @@
 
 </p>
 
-## every replit qr have an error not show play button to open qr they will fix it soon dont worry anyone 
+## Select any qr below 3 qr and Click the Fork button and click green color play button then will open the qr 
 
 [![Scan QR CODE 1](https://i.imgur.com/ouR5zv8.jpg)](https://vajira-qrcode.vercel.app/)
 
