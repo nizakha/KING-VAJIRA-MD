@@ -56,7 +56,7 @@ cmd(
         const DB = require('../lib')
         let commits = await DB.syncgit()
         if (commits.total === 0)  {
-         citel.reply(`Hey ${citel.pushName}. You have latest version installed.`)
+         citel.reply(`Hey ${citel.pushName}. දැනටමත් ඔබෙ නවතම Version එක Update වි ඇත. නැවත් අලුත් Version එකක් එන තුරු රැදි සිටින්න .`)
           } else { 
              citel.reply('Build Started...')
             let update = await DB.updatedb()
