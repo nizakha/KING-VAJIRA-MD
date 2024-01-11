@@ -46,7 +46,7 @@ cmd(
                   } catch { console.log('heroku remote adding error'); }	
                   await git.push('heroku', 'main');	
       
-                  return '*ʙᴏᴛ ᴜᴘᴅᴀᴛᴇᴅ...*\n_Restarting._'	
+                  return '*ʙᴏᴛ යාවත්කාලින කරන ලදි...*\n_නැවත ආරම්භ කරමින් පවති._'	
       
       
               }	
@@ -58,7 +58,7 @@ cmd(
         if (commits.total === 0)  {
          citel.reply(`Hey ${citel.pushName}. දැනටමත් ඔබෙ නවතම Version එක Update වි ඇත. නැවත් අලුත් Version එකක් එන තුරු රැදි සිටින්න .`)
           } else { 
-             citel.reply('Build Started...')
+             citel.reply('ගොඩනැගීම ආරම්භ විය...')
             let update = await DB.updatedb()
               citel.reply(update)
           }
